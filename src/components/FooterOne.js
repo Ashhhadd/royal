@@ -126,27 +126,27 @@ const FooterOne = () => {
                 <ul>
                   <li>
                     <a href='#'>
-                      <FaArrowRight /> Air Freight
+                      <FaArrowRight /> Logistics management
                     </a>
                   </li>
                   <li>
                     <a href='#'>
-                      <FaArrowRight /> Ocean Freight
+                      <FaArrowRight /> Consultation
                     </a>
                   </li>
                   <li>
                     <a href='#'>
-                      <FaArrowRight /> Railway Freight
+                      <FaArrowRight /> Freight Optimization
                     </a>
                   </li>
                   <li>
                     <a href='#'>
-                      <FaArrowRight /> Warehousing
+                      <FaArrowRight /> Load Matching
                     </a>
                   </li>
                   <li>
                     <a href='#'>
-                      <FaArrowRight /> Distribution
+                      <FaArrowRight /> Carrier Vetting and compliance
                     </a>
                   </li>
                 </ul>
